@@ -4,6 +4,23 @@
             "outputFile": "/Users/anson/Desktop/arHolder/unity/arHolder/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
+                    "source": "/Users/anson/.gradle/caches/transforms-2/files-2.1/6e84f4d5b1304cb82c82ca3c7555cda6/arcore_client/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                },
+                {
                     "source": "/Users/anson/Desktop/arHolder/unity/arHolder/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,3",
@@ -13,11 +30,11 @@
                         "endOffsets": "94,160"
                     },
                     "to": {
-                        "startLines": "2,3",
+                        "startLines": "7,8",
                         "startColumns": "4,4",
-                        "startOffsets": "55,101",
+                        "startOffsets": "501,547",
                         "endColumns": "45,67",
-                        "endOffsets": "96,164"
+                        "endOffsets": "542,610"
                     }
                 },
                 {
@@ -31,12 +48,12 @@
                         "endOffsets": "286,188,513"
                     },
                     "to": {
-                        "startLines": "4,6,9",
+                        "startLines": "9,11,14",
                         "startColumns": "4,4,4",
-                        "startOffsets": "169,269,407",
-                        "endLines": "5,8,12",
+                        "startOffsets": "615,715,853",
+                        "endLines": "10,13,17",
                         "endColumns": "8,8,8",
-                        "endOffsets": "264,402,629"
+                        "endOffsets": "710,848,1075"
                     }
                 }
             ]

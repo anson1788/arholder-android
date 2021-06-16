@@ -7,14 +7,12 @@
     android:versionName="0.1" >
 
     <uses-sdk
-        android:minSdkVersion="19"
-        android:targetSdkVersion="28" />
+        android:minSdkVersion="29"
+        android:targetSdkVersion="29" />
 
     <uses-feature android:glEsVersion="0x00030000" />
-    <uses-feature
-        android:name="android.hardware.vulkan.version"
-        android:required="false" />
 
+    <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
 
@@ -51,6 +49,12 @@
         </activity>
 
         <meta-data
+            android:name="unity.tango-enable"
+            android:value="True" />
+        <meta-data
+            android:name="unityplayer.SkipPermissionsDialog"
+            android:value="true" />
+        <meta-data
             android:name="unity.splash-mode"
             android:value="0" />
         <meta-data
@@ -61,7 +65,7 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="9a47eb40-8bf0-4c8b-bf5a-aa86626e5e7b" />
+            android:value="4855a27d-a42f-403d-a4ce-458846d12772" />
     </application>
 
 </manifest>
