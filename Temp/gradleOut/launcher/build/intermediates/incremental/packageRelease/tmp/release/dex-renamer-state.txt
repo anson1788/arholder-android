@@ -1,0 +1,4 @@
+#Thu Jun 17 00:11:56 HKT 2021
+base.0=/Users/anson/Desktop/arHolder/unity/arHolder/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
